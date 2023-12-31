@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VI6JxfAqAfY51RcV538OPxRmf3DITh7Hs/b5D2K/OO5200Ib5GgcoRpTEwvbcCV0HTdDO/ZmJ0LhmYdckNlPTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\RC4Cipher\\RC4Cipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

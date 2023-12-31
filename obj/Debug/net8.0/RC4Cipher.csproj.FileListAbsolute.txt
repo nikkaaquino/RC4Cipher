@@ -1,0 +1,17 @@
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\RC4Cipher.exe
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\RC4Cipher.deps.json
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\RC4Cipher.runtimeconfig.json
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\RC4Cipher.dll
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\RC4Cipher.pdb
+C:\Users\user\Documents\GitHub\RC4Cipher\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.dll
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\refint\RC4Cipher.dll
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.pdb
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\RC4Cipher.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\RC4Cipher\obj\Debug\net8.0\ref\RC4Cipher.dll
